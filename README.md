@@ -13,29 +13,32 @@
 
 ```javascript
 const gustavo = {
- name: "Gustavo Alves",
- role: "Full Stack Developer",
- company: "Focus Dev",
- location: "Brazil",
- stack: [
-   "React",
-   "Node.js",
-   "Express",
-   "MySQL",
-   "JavaScript"
- ],
- currentlyBuilding: "Stand Online",
- interests: [
-   "Web Development",
-   "UI/UX",
-   "Scalable Systems"
- ]
+  name: "Gustavo Alves",
+  role: "Full Stack Developer",
+  company: "Focus Dev",
+  location: "Brazil",
+
+  stack: [
+    "React",
+    "Node.js",
+    "Express",
+    "MySQL",
+    "JavaScript"
+  ],
+
+  currentlyBuilding: "Stand Online",
+
+  interests: [
+    "Web Development",
+    "UI/UX",
+    "Scalable Systems"
+  ]
 }
 ```
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -56,29 +59,31 @@ const gustavo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaLVS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=GustaLVS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaLVS&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GustaLVS&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaLVS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GustaLVS&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GustaLVS&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GustaLVS&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -97,13 +102,13 @@ Vehicle rental management application.
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustaLVS&theme=tokyo-night"/>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -123,7 +128,7 @@ Vehicle rental management application.
 
 ---
 
-## 🧠 Current Focus
+# 🧠 Current Focus
 
 - Full Stack Development  
 - Scalable Web Applications  
@@ -135,7 +140,7 @@ Vehicle rental management application.
 
 <div align="center">
 
-### Profile Views
+## Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=GustaLVS&label=Visitors&color=58A6FF"/>
 
@@ -143,6 +148,6 @@ Vehicle rental management application.
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-![Snake animation](https://github.com/GustaLVS/GustaLVS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GustaLVS/GustaLVS/blob/output/github-contribution-grid-snake-dark.svg)
