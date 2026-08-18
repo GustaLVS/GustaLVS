@@ -93,9 +93,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaLVS&lay
 ## 🚗 Stand Online
 Modern vehicle dealership platform built with React, Node and MySQL.
 
-## 💼 Focus Dev
-Agency focused on modern websites, systems and landing pages.
-
 ## 🚘 Car Rental System
 Vehicle rental management application.
 
