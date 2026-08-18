@@ -15,7 +15,6 @@
 const gustavo = {
   name: "Gustavo Alves",
   role: "Full Stack Developer",
-  company: "Focus Dev",
   location: "Brazil",
 
   stack: [
